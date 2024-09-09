@@ -1,4 +1,9 @@
-## Hi there 👋
+<div id="header" align="center">
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWJnMXY2OHhhZzJhYTU3bDY2NG5zaWJkaHgxeTBlZXBzZ2d2dHI0MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/qT3NpahR7tGnOqqjng/giphy.gif">
+</div>
+
+   
+
 
 <!--
 **S-Craig17/S-Craig17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

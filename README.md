@@ -12,6 +12,10 @@
   <br>
   <img src="https://komarev.com/ghpvc/?username=S-Craig17&style=flat-square&color=blue" alt="profile view" width="100"/>
 </div>
+<h1 align="center">
+  I'm Neno
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTRheG12djl5bWNmMXV6YzJ2cTRuc3JucWk4aG9tdXZzMGw4azRoMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/iMVL7KkjRbhcdLMoCz/giphy.gif" width="40px"/>
+</h1>
    
 
 

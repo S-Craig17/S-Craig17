@@ -56,6 +56,14 @@ I am a front-end developer
 </div>
 
 ---
+<div align="center">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=bcbfa5s6wgrgvaa3upr7wuu19">
+</div>
+
+
+
+
+---
 
 
 ### :fire: My Stats

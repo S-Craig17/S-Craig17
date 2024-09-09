@@ -57,11 +57,13 @@ I am a front-end developer
 
 ---
 
-<div align="center">
-  :fire: My Stats
-  <br>
- <img src="https://github-readme-streak-stats.herokuapp.com?user=S-Craig17&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&card_width=400&card_height=200&type=png">
-</div>
+
+### :fire: My Stats
+  
+ <img src="https://github-readme-streak-stats.herokuapp.com?user=S-Craig17&theme=material-palenight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&card_width=400&card_height=200&type=png">&nbsp;
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=S-Craig17&layout=compact&theme=material-palenight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&card_width=400&card_height=200&type=png">&nbsp;
+ <img src="https://github-readme-stats.vercel.app/api/wakatime?username=S_Craig17&layout=compact&theme=material-palenight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&card_width=400&card_height=200&type=png">
+
 
 <!--
 **S-Craig17/S-Craig17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

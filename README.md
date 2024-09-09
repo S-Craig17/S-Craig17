@@ -1,7 +1,10 @@
 <div id="header" align="center">
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWJnMXY2OHhhZzJhYTU3bDY2NG5zaWJkaHgxeTBlZXBzZ2d2dHI0MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/qT3NpahR7tGnOqqjng/giphy.gif">
 </div>
-
+<div id="badges" align="center">
+  <img src="https://img.shields.io/badge/Discord-purple?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge" width="100"/>
+  <img src="https://img.shields.io/badge/Github-grey?style=for-the-badge&logo=github&logoColor=white" alt="Github Badge" width="100"/>
+</div>
    
 
 

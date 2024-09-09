@@ -9,6 +9,8 @@
   <a href="https://github.com/S-Craig17">
     <img src="https://img.shields.io/badge/Github-black?style=for-the-badge&logo=github&logoColor=white" alt="Github Badge"/>
   </a>
+  <br>
+  <img src="https://komarev.com/ghpvc/?username=S-Craig17&style=flat-square&color=blue" alt="profile view" width="100"/>
 </div>
    
 

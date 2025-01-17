@@ -27,11 +27,11 @@
 
 ### 👩‍💻 About Me : 
 
-I am a front-end developer
+I am working on perfecting my skills to become a fullstack developer
 
-🔭 I’m currently working on an online manga bookstore called Otaku Oasis
+🔭 I’m currently working on an online manga bookstore
 
-🌱 I’m currently learning Python
+🌱 My goal is to continue to advance in my career
 
 ⚡ Fun fact: I can bend my thumbs backwards
 

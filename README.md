@@ -29,7 +29,7 @@
 
 I am working on perfecting my skills to become a fullstack developer
 
-🔭 I’m currently working on an online manga bookstore
+🔭 I’m currently working on a few projects including a mini blog about my dog and an online manga website
 
 🌱 My goal is to continue to advance in my career
 
